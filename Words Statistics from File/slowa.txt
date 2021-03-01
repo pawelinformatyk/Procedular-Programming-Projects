@@ -1,0 +1,19 @@
+Tworzenie identyfikatorow w okreslonym jezyku programowania odbywa sie w oparciu o reguly okreslone w skladni danego jezyka programowania. 
+Powiazanie identyfikatora z okreslonym elementem nastepuje w deklaracji. W poszczegolnych jezykach zasady sa rozne, przy czym roznice te dotycza:
+
+dopuszczalnych znakow, z ktorych mozna tworzyc identyfikator,
+dopuszczalnej dlugosci identyfikatora,
+liczby znakow znaczacych (branych pod uwage przez translator) w identyfikatorze,
+dopuszczalnych znakow, od ktorych moze rozpoczynac sie identyfikator,
+rozrozniania wielkich i malych liter.
+Najczesciej spotykane przypadki to:
+
+identyfikatory moga skladac sie z: liter, znaku podkreslenia ("_") i cyfr, przy czym pierwszy znak identyfikatora nie moze byc cyfra,
+Poprawne identyfikatory: _A, identyfikator, zz12, a1b2_c3, ala_ma_kota.
+Niepoprawne ciagi: 12w, as y, 12_AS.
+Przykladowe jezyki programowania: C[4][5][6][7], C++[8][7], Pascal[9][10], PL/1[11][12], PL/M[13][14], Modula-2[15] i wiele innych.
+identyfikator moze skladac sie z dowolnych znakow,
+Przykladowe jezyki programowania: Forth[16][17]
+identyfikator moze byc jednym z okreslonych w skladni slowem (ciagiem znakow), dotyczy to nielicznych, historycznych lub specjalizowanych jezykow.
+Przykladowe jezyki programowania: asembler MOTIS[18] dla Mera 300.
+Poprawne identyfikatory (MOTIS): Q1, Q2 ... Q77.
